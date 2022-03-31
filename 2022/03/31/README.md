@@ -10,7 +10,7 @@
 🟧 - Proceeding   
 ⬜ - To do   
 ```   
-⬜ 백엔드 개발자와 Todo 토이 프로젝트 예정
+⬜ 백엔드 개발자와 Todo 토이 프로젝트 예정 (code base)
 ```
 
 ## 🧑‍🌾 회고
